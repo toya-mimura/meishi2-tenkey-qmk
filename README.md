@@ -29,7 +29,7 @@ meishi2 を「フィンガーバイナリーテンキー」に改造するため
 
 ## 必要なもの
 
-- meishi2 キーボード（組み立て済み）
+- [meishi2 キーボード（組み立て済み）](https://shop.yushakobo.jp/products/834)
 - USB ケーブル（meishi2 と PC を接続するもの）
 - Windows PC
 
