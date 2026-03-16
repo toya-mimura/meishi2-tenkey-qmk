@@ -31,7 +31,7 @@ meishi2 を「フィンガーバイナリーテンキー」に改造するため
 
 - meishi2 キーボード（組み立て済み）
 - USB ケーブル（meishi2 と PC を接続するもの）
-- Windows PC（MSI ゲーミング PC を推奨）
+- Windows PC
 
 ---
 
